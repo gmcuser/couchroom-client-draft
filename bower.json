@@ -1,0 +1,20 @@
+{
+  "name": "couchroom-client-draft",
+  "authors": [
+    "gmcuser <gmcdnb@gmail.com>"
+  ],
+  "description": "Simple Couchroom web client",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
